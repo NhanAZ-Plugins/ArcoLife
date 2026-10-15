@@ -2,5 +2,5 @@ name: ArcoLife
 author: CodersBr
 authors: [YTkaio, zM360]
 api: 5.0.0
-version: '1.0'
+version: 1.0.0
 main: CodersBr\Main
