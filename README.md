@@ -16,3 +16,8 @@ The manifest requires Axolotl-PM API 5.0.0. PHPStan max and PHAR builds are chec
 The plugin retains the CodersBr, YTkaio and zM360 credits. An earlier commit ran a privileged console permission command at startup; the current source does not contain that behavior. Do not deploy PHARs built from earlier revisions.
 
 There is no LICENSE file or verified grant for redistribution of a modified build. No license was added and no stable release was published.
+
+
+## Credits
+
+Authors: NhanAZ, CodersBr, YTkaio, zM360.
